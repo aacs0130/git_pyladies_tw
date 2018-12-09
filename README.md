@@ -1,4 +1,4 @@
-###This is a practice for team work in Pyladies TW 2018.
+### This is a practice for team work in Pyladies TW 2018.
 After practicing this, you will know how to do team work with others and solve conflict.
 
 We have 2 roles to collabrate in this demo: fish and cat. Please modify colors in order rainbow.txt 

@@ -9,15 +9,15 @@ We have 2 roles to collabrate in this demo: fish and cat. Please modify colors i
 4. git checkout dev##
 5. git merge fish##
 6. (Wait cat's step 1)
-6. git push
-6. Add Orange\n in rainbow.txt
-7. git commit -m "add orange"
-8. (Wait cat's step 9)
-9. git checkout dev##
-10. git merge fish##
-11. ....solve conflict...
-12. git commit -m "Fish solve conflict"
-13. git push
+7. git push
+8. Add Orange\n in rainbow.txt
+9. git commit -m "add orange"
+10. (Wait cat's step 9)
+11. git checkout dev##
+12. git merge fish##
+13. ....solve conflict...
+14. git commit -m "Fish solve conflict"
+15. git push
 
 ### Cat's steps
 1. git checkout cat##
@@ -29,9 +29,10 @@ We have 2 roles to collabrate in this demo: fish and cat. Please modify colors i
 7. ....solve conflict...
 8. git commit -m "Cat solve conflict"
 9. git push
-9. git checkout cat##
-10. Add Purple\n in rainbow.txt
-11. git commit -m "add yellow and blue"
-12. git checkout dev##
-13. git merge cat##
-14. git push
+10. git checkout cat##
+11. git merge dev##
+12. Add Purple\n in rainbow.txt
+13. git commit -m "add purple"
+14. git checkout dev##
+15. git merge cat##
+16. git push

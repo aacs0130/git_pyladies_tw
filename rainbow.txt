@@ -1,3 +1,7 @@
 There are 7 colors in the rainbow, they are:
+Red
+Orange
 Yellow
+Green
 Blue
+
